@@ -2,9 +2,9 @@
 I am a person who hate code but prefer learning how to code. And I hate gacha games!
 
 ## About me
-* I am 18 years old
-* I can speak English and I come from Viet Nam. I also can speak Japanese but it just a little bit
-* University Student, Software Engineer
+* I am 18 years old.
+* I can speak English and Vietnamese. I also can speak Japanese but it just a little bit!
+* University Student, Software Engineer.
 
 ## My favourite programming Language (I am new to code)
 * C++
@@ -17,7 +17,11 @@ I am a person who hate code but prefer learning how to code. And I hate gacha ga
 ## Automation
 * AutoHotKey (AHK)
 
-
+## Contact me
+* [Email](mailto:kleqing24k@gmail.com)
+* [Twitter](http://twitter.com/kleqing24k)
+* [Facebook](http://facebook.com/kleqing)
+* My website: http://kleqing.github.io
 
 <!--
 *kleqing/kleqing* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
@@ -33,6 +37,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Profile Status
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kleqing&show_icons=true&theme=github_dark&hide_border=true"/>
 </a>
