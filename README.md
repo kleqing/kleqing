@@ -1,20 +1,20 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
 I am a person who hate code but prefer learning how to code. And I hate gacha games!
 
-### About me
+## About me
 * I am 18 years old
 * I can speak English and I come from Viet Nam. I also can speak Japanese but it just a little bit
 * University Student, Software Engineer
 
-### My favourite programming Language (I am new to code)
+## My favourite programming Language (I am new to code)
 * C++
 * Python
 
-### UI Design 
+## UI Design 
 * Some Swift
 * HTML/CSS
 
-### Automation
+## Automation
 * AutoHotKey (AHK)
 
 
