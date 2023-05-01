@@ -1,4 +1,23 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
+I am a person who hate code but prefer learning how to code. And I hate gacha games!
+
+### About me
+* I am 18 years old
+* I can speak English and I come from Viet Nam. I also can speak Japanese but it just a little bit
+* University Student, Software Engineer
+
+### My favourite programming Language (I am new to code)
+* C++
+* Python
+
+### UI Design 
+* Some Swift
+* HTML/CSS
+
+### Automation
+* AutoHotKey (AHK)
+
+
 
 <!--
 *kleqing/kleqing* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
@@ -26,4 +45,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleqing&layout=compact&langs_count=8&theme=github_dark&size_weight=0.5&count_weight=0.5&hide_border=true"/>
 </a>
+
 
