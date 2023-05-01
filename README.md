@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
 
 <!--
-**kleqing/kleqing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*kleqing/kleqing* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,10 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kleqing&show_icons=true&theme=github_dark"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kleqing&show_icons=true"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleqing&layout=compact&langs_count=8"/>
+</a>
 
+<!--
 [![kleqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleqing&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![kleqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleqing&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![keqing's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleqing&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-
+-->
