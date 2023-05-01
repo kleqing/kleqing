@@ -21,9 +21,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kleqing&show_icons=true&hide=prs"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleqing&layout=compact&langs_count=8"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleqing&layout=compact&langs_count=8&hide_progress=true"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleqing&layout=compact&langs_count=8&theme=github_dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleqing&layout=compact&langs_count=8&theme=github_dark&hide_progress=true"/>
 </a>
 
