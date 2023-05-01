@@ -3,7 +3,7 @@ I am a person who hate code but prefer learning how to code. And I hate gacha ga
 
 ## About me
 * I am 18 years old.
-* I can speak English and Vietnamese. I also can speak Japanese but it just a little bit!
+* I can speak English and Vietnamese. I also can speak Japanese but just a little!
 * University Student, Software Engineer.
 
 ## My favourite programming Language (I am new to code)
