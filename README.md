@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 [![kleqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleqing&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![kleqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleqing&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+[![keqing's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleqing&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
