@@ -38,17 +38,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Profile Status
-<a href="https://github.com/kleqing/github-readme-status#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-status-git-main-kleqing.vercel.app/api?username=kleqing&show_icons=true&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kleqing&show_icons=true&theme=github_dark&hide_border=true"/>
 </a>
-<a href="https://github.com/kleqing/github-readme-status#gh-light-mode-only">
-  <img align="center" src="https://github-readme-status-git-main-kleqing.vercel.app/api?username=kleqing&show_icons=true&hide_border=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kleqing&show_icons=true&hide_border=true"/>
 </a>
-<a href="https://github.com/kleqing/github-readme-status#gh-light-mode-only">
-  <img align="center" src="https://github-readme-status-git-main-kleqing.vercel.app/api/top-langs/?username=kleqing&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleqing&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true"/>
 </a>
-<a href="https://github.com/kleqing/github-readme-status#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-status-git-main-kleqing.vercel.app/api/top-langs/?username=kleqing&layout=compact&langs_count=8&theme=github_dark&size_weight=0.5&count_weight=0.5&hide_border=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleqing&layout=compact&langs_count=8&theme=github_dark&size_weight=0.5&count_weight=0.5&hide_border=true"/>
 </a>
 
 
