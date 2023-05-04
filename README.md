@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Profile Status
+## Profile Stats
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kleqing&show_icons=true&theme=github_dark&hide_border=true"/>
 </a>
