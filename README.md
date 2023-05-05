@@ -51,5 +51,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleqing&layout=compact&langs_count=8&theme=github_dark&size_weight=0.5&count_weight=0.5&hide_border=true"/>
 </a>
 
-![kleqing's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=kleqing&theme=github_dark&hide_border=true&limit=5)
-
+<a href="https://github.com/denvercoder1/github-readme-streak-stats#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kleqing&theme=github-dark&hide_border=true"/>
+</a>
+<a href="https://github.com/denvercoder1/github-readme-streak-stats#gh-light-mode-only">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kleqing&hide_border=true"/>
+</a>
