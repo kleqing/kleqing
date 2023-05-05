@@ -51,4 +51,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleqing&layout=compact&langs_count=8&theme=github_dark&size_weight=0.5&count_weight=0.5&hide_border=true"/>
 </a>
 
+![kleqing's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=kleqing&theme=github_dark&hide_border=true&limit=5)
 
