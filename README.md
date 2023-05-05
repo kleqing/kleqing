@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/denvercoder1/github-readme-streak-stats#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kleqing&theme=github-dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kleqing&theme=github-dark-blue&hide_border=true"/>
 </a>
 <a href="https://github.com/denvercoder1/github-readme-streak-stats#gh-light-mode-only">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kleqing&hide_border=true"/>
