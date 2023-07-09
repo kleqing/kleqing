@@ -1,6 +1,8 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
 I am a person who hate code but prefer learning how to code. And I hate gacha games!
 
+[img](https://drive.google.com/uc?export=view&id=17oDi46O3ptHi7eKY9vS2_qe_nmT4LJq4)
+
 ## About me
 * I am 18 years old.
 * I can speak English and Vietnamese. I also can speak Japanese but just a little!
