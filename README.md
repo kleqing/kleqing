@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
 I am a person who hate code but prefer learning how to code. And I hate gacha games!
 
-<img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-zWVy0LnrU9OOEZWUhlU0ClOxco8gTwK6qNpJed8NNSSXJynsij609_EfT9Cz6pMsmbY2GkBDK5zd-sK1qYriiDVjyUBQ=w1392-h781">
+<!-- <img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-zWVy0LnrU9OOEZWUhlU0ClOxco8gTwK6qNpJed8NNSSXJynsij609_EfT9Cz6pMsmbY2GkBDK5zd-sK1qYriiDVjyUBQ=w1392-h781"> -->
 
 ## About me
 * I am 18 years old.
