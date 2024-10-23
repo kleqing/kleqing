@@ -4,16 +4,23 @@ I am a person who hate code but prefer learning how to code. And I hate gacha ga
 <!-- <img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-zWVy0LnrU9OOEZWUhlU0ClOxco8gTwK6qNpJed8NNSSXJynsij609_EfT9Cz6pMsmbY2GkBDK5zd-sK1qYriiDVjyUBQ=w1392-h781"> -->
 
 ## About me
-* I am 18 years old.
-* I can speak English and Vietnamese. I also can speak Japanese but just a little!
+* I am 20 years old.
+* I can speak English and Vietnamese. I also can speak Japanese but just a little! (N5 is too hard)
 * University Student, Software Engineer.
 
-## My favourite programming Language (I am new to code)
-* C++
+## Proficient Languague
+* Java
+* C#
 * Python
 
+## Intermediate
+* C/C++
+
+## Framework
+* ASP .NET
+* JavaEE
+
 ## UI Design 
-* Some Swift
 * HTML/CSS
 
 ## Automation
