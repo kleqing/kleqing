@@ -1,36 +1,11 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
-I am a person who hate code but prefer learning how to code. And I hate gacha games!
+- 👋 Hi, I'm Pham Khanh Nhan, a university student with target is become a game development
+- 🔭 I'm learning C# and intermediate at java, c/c++ and python
+- 👀 I'm interested at unity engine and unreal engine
+- 🌱 I’m currently learning at FPT University
+- ⚡ Feel free to fork/clone my projects, although some of them are not mine but you can submit PRs if you think something could be better 
 
-<!-- <img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-zWVy0LnrU9OOEZWUhlU0ClOxco8gTwK6qNpJed8NNSSXJynsij609_EfT9Cz6pMsmbY2GkBDK5zd-sK1qYriiDVjyUBQ=w1392-h781"> -->
 
-## About me
-* I am 20 years old.
-* I can speak English and Vietnamese. I also can speak Japanese but just a little! (N5 is too hard)
-* University Student, Software Engineer.
 
-## Proficient Languague
-* Java
-* C#
-* Python
-
-## Intermediate
-* C/C++
-
-## Framework
-* ASP .NET
-* JavaEE
-
-## UI Design 
-* HTML/CSS
-
-## Automation
-* AutoHotKey (AHK)
-
-## Contact me
-* [Email](mailto:kleqing24k@gmail.com)
-* [Twitter](http://twitter.com/kleqing24k)
-* [Facebook](http://facebook.com/kleqing)
-* My website: http://kleqing.github.io
 
 <!--
 *kleqing/kleqing* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
@@ -46,14 +21,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Profile Stats
+
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kleqing&show_icons=true&theme=github_dark&hide_border=true"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kleqing&show_icons=true&hide_border=true"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleqing&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
@@ -65,4 +41,11 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/denvercoder1/github-readme-streak-stats#gh-light-mode-only">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kleqing&hide_border=true"/>
-</a>
+</a> 
+-->
+</div>
+
+<div align="center">
+  Ask me everything at: <a href="http://twitter.com/kleqing24k">Twitter</a>, <a href="http://facebook.com/kleqing">Facebook</a> or <a href="mailto:kleqing24k@gmail.com">Email</a> me.<br>
+</div>
+
