@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  Ask me everything at: <a href="http://twitter.com/kleqing24k">Twitter (X)</a>, <a href="http://facebook.com/kleqing">Facebook</a> or <a href="mailto:kleqing24k@gmail.com">Email</a>.<br>
+  Ask me everything at: <a href="https://github.com/kleqing/kleqing/issues">here</a>, <a href="http://twitter.com/kleqing24k">Twitter (X)</a>, <a href="http://facebook.com/kleqing">Facebook</a> or <a href="mailto:kleqing24k@gmail.com">Email</a> me.<br>
 </div>
 
